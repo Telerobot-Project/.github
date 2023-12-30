@@ -1,4 +1,4 @@
-## Hi there 👋
+![telebot_github_poster](https://github.com/Telerobot-Project/.github/assets/77287641/66f75656-362c-4ab4-8b1f-a8da29ef9923)
 
 <!--
 
