@@ -1,4 +1,5 @@
-![telebot_github_poster](https://github.com/Telerobot-Project/.github/assets/77287641/66f75656-362c-4ab4-8b1f-a8da29ef9923)
+![image](https://github.com/Telerobot-Project/.github/assets/77287641/8090a590-ca56-478e-9a5a-bc94bdc42d3d)
+
 
 <!--
 
